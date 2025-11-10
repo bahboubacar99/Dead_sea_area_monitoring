@@ -1,10 +1,10 @@
 # Dead_sea_area_monitoring
 In this project, we will monitoring the Dead Sea surface area variation between 1984 and 2025 using Landsat 5 and 8 images.
-### Requirements for running this notebook:
+#### Requirements for running this notebook:
 Have a Google Earth Engine (GEE) account
 Have a GEE project
 Install the necessary libraries
-### Notebook contents:
+#### Notebook contents:
 This notebook processes Landsat 5 images from 1984 to 2013 and Landsat 8 images from 2013 to 2025, from GEE.
 
 #### The processing consists of:
